@@ -63,3 +63,6 @@ debian/krode.substvars
 
 # Junk
 .c*
+
+# Built binary
+krode
